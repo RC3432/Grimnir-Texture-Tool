@@ -1,0 +1,3 @@
+Place a Texture2D xnb called "texture.xnb" in the debug once you build it
+
+	~ RC3432
